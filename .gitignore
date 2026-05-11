@@ -1,5 +1,6 @@
 .DS_Store
-outputs/
+outputs/**
+!outputs/**/*.md
 data/processed/
 data/raw/sensores.parquet
 .venv/
